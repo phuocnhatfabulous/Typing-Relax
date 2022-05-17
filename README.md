@@ -14,8 +14,8 @@
 | ----------------------------------------------------- | ----------------------------------------------------------------------------------------------- |
 | docker image                                          | Liệt kê các images có trong docker.                                                             |
 | docker ps / docker ps -a                              | Kiểm tra các containers đang chạy / Kiểm tra tất cả container đang có                           |
-|                                                       | docker pull ImageName:version                                                                   | Tải image theo phiên bản.    |
-|                                                       | docker pull ImageName                                                                           | Tải image phiên bản mới nhất |
+| docker pull ImageName:version                    | Tải image theo phiên bản.    |
+| docker pull ImageName                             | Tải image phiên bản mới nhất |
 | docker image rm ImageName                             | Xóa image                                                                                       |
 | docker run -it --name Name -h Host NameImage          | Tạo container                                                                                   |
 | cmd + P, cmd + Q                                      | Khởi chạy container                                                                             |
