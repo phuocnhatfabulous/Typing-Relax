@@ -27,8 +27,7 @@
 | docker exec ContainerName ls                          | Thực hiện lệnh (liệt kê các file) trong container dù không ở trong container. (đang ở máy host) |
 | bash docker commit ContainerName NewImageName:version | Tạo image từ container đã có.                                                                   |
 | docker kill $(docker ps -q)                           | stop all docker containers                                                                      |
-
-
-##Questions about field of Computer Science:
-    1. (Difference between Image Processing and Computer Vision)[https://www.geeksforgeeks.org/difference-between-image-processing-and-computer-vision/]
-    2.
+## Questions about field of Computer Science:
+  1. [Difference between Image Processing and Computer Vision](https://www.geeksforgeeks.org/difference-between-image-processing-and-computer-vision/)
+   
+  2.
