@@ -8,7 +8,7 @@ function* fetchPostSaga(action){
 }
 
 function* mySaga(){
-    yield takeLatest(actions.getPosts.getPostRequest, fetchPostSaga)
+    yield takeLatest(actions.getPosts.getPostsRequest, fetchPostSaga)
 }
 //generator function ES6
 
