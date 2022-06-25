@@ -1,7 +1,5 @@
 #Android
 
-<img src = "/imgs/android1.png">
-
 link btap
 
 ```
