@@ -4,5 +4,10 @@
  */
 
 // Call back
-
-// Promise
+const functionCallback = name => {
+    console.log(`hello ${name}`);
+}
+function asyncOperation(name, callback) {
+    callback(name)
+}
+asyncOperation('PhuocNhat', functionCallback)
