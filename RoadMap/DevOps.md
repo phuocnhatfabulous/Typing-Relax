@@ -81,4 +81,12 @@
 -   Workspaces
 -   Provisioners
 
-# [Module 8: Monitoring and Logging](#module-1-introduce-aws)
+# [Module 8: Monitoring and Logging]()
+
+-   Monitoring
+-   Prometheus
+-   Grafana
+-   Logs management
+-   Grafana Loki
+
+# [Module 9: Build procedure CI/CD for system]()
