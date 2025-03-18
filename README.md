@@ -2,7 +2,7 @@
 ---
 ## About Front-End:
 
--   Technical: HTML5, CSS3, ReactJS ES6, Node, Sass.
+-   Technical: HTML5, CSS3, ReactJS ES6, Node, Sass
 
 ## About Back-End:
 -   Technical: MongoDb,
